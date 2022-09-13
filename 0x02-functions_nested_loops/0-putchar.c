@@ -1,5 +1,5 @@
-#include <studio.h>
 #include "main.h"
+#include <string.h>
 
 /**
  * main - Entry point
