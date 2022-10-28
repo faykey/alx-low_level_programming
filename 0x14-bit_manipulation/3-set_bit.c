@@ -32,7 +32,7 @@ int set_bit(unsigned long int *n, unsigned int index)
 	unsigned long int mask = 1;
 	#ifdef DEBUG
 	unsigned long int n_before = *n;
-	#endi
+	#endif
 
 	/*if index is greater than size of n in binary coded decimal*/
 	if (index > INT_BITS)
