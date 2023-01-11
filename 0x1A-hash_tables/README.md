@@ -1,7 +1,0 @@
-A. C - Hash tables
-
-C
-
-Algorithm
-
-Data structure
