@@ -7,7 +7,7 @@
  * @size: the number of elements in array
  * @value: the value to search fo
  *
- * @Return: the first index where value is located
+ * Return: the first index where value is located
  *
  */
 
